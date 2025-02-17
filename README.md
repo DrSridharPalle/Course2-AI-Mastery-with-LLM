@@ -64,7 +64,7 @@ Each project bridges the gap between theoretical AI concepts and practical imple
 ## 🛠️ Tech Stack  
 | Category | Tools Used |
 |----------|-----------|
-| **LLMs** | GPT-4o-mini (OpenAI), Claude 3 Haiku (Anthropic) |
+| **LLMs** | GPT-4o-mini (OpenAI), Claude 3 Haiku (Anthropic), TinyLlama |
 | **RAG** | LangChain, FAISS, ChromaDB |
 | **Fine-Tuning & Embeddings** | OpenAI Embeddings, PEFT (QLoRA), RLHF, DPO |
 | **Chatbot Frameworks** | LangChain, OpenAI Chat Models |
